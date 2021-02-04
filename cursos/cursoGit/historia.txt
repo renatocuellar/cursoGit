@@ -3,3 +3,5 @@ Este es un archivo de texto plano.
 Es uno de los estandares del mundo actual.
 
 Ahora se añade esta línea al nuevo commit.
+
+Normarmente sirve como un blog de notas
